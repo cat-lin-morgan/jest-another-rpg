@@ -1,0 +1,26 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cat-lin-morgan/jest-another-rpg.git"
+  },
+  "keywords": [
+    "game",
+    "node"
+  ],
+  "author": "cat-lin-morgan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cat-lin-morgan/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/cat-lin-morgan/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^26.5.2"
+  }
+}
